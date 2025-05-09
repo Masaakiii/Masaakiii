@@ -2,7 +2,7 @@
 
 こんにちは！Masaakiiiです。日々の学習成果を GitHub に記録しています。
 現在は主に Web 開発（JavaScript / HTML / CSS）と Python に取り組んでいます。
-
+* [個人PR](https://Masaakiii.github.io/web-profile)
 ---
 
 ### 🧠 スキルセット
@@ -35,4 +35,3 @@
 
 * GitHub: [Masaakiii](https://github.com/Masaakiii)
 * Linkedin: [佐藤 正晃](https://www.linkedin.com/in/%E6%AD%A3%E6%99%83-%E4%BD%90%E8%97%A4-35887b364/)
-* 個人PR: [Masaakiii]([https://github.com/Masaakiii](https://Masaakiii.github.io/web-profile))
