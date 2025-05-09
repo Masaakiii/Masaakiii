@@ -34,4 +34,4 @@
 ### 📫 連絡先
 
 * GitHub: [Masaakiii](https://github.com/Masaakiii)
-* Linkedin: [佐藤 正晃](https://www.linkedin.com/in/%E5%90%89-%E5%90%89-35887b364/)
+* Linkedin: [佐藤 正晃](https://www.linkedin.com/in/%E6%AD%A3%E6%99%83-%E4%BD%90%E8%97%A4-35887b364/)
