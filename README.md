@@ -2,7 +2,7 @@
 
 こんにちは！Masaakiiiです。日々の学習成果を GitHub に記録しています。
 現在は主に Web 開発（JavaScript / HTML / CSS）と Python に取り組んでいます。
-* [自己PR](https://Masaakiii.github.io/web-profile)
+* [Prpfile](https://Masaakiii.github.io/web-profile)
 ---
 
 ### 🧠 スキルセット
